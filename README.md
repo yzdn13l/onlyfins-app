@@ -16,4 +16,4 @@ python demo.py
 ```
 
 ### Example
-```
+![Demo](assets/demo.gif)
